@@ -66,7 +66,7 @@ function App() {
         <img
             src="screenshot.png"
             alt="screenshot"
-            className="w-full h-0 lg:h-[400px] xl:h-[500px] z-1 object-top object-cover absolute bottom-0"
+            className="w-full h-0 lg:h-[400px] xl:h-[400px] z-1 object-top object-cover absolute bottom-0"
             style={{
               // Deafult values
               filter: "brightness(.6) contrast(0.8)",
